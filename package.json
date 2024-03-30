@@ -26,7 +26,8 @@
     "morgan": "^1.10.0",
     "nodemon": "^3.1.0",
     "supertest": "^6.3.4",
-    "ts-jest": "^29.1.2"
+    "ts-jest": "^29.1.2",
+    "volta": "^0.0.0"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
@@ -38,5 +39,9 @@
     "prisma": "^5.10.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
+  },
+  "volta": {
+    "node": "18.17.0",
+    "yarn": "1.22.19"
   }
 }
